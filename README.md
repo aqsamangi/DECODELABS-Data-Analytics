@@ -100,7 +100,3 @@ For Project 3, follow the SQL database setup and execution instructions included
 - Base all findings and conclusions on actual analysis results.
 - Keep project-specific instructions and output filenames updated.
 - Only publish files you have permission to share. Check datasets and reports for confidential or sensitive information before making the repository public.
-
-## Author
-
-Aqsa Zaib
